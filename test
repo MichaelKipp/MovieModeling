@@ -1,0 +1,5 @@
+import timeit, sys, io
+
+open('SeparatedMovies/test.txt', 'a')
+
+with open('SeparatedMovies/test.txt', 'w') as test:
