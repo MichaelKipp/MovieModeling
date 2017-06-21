@@ -9,7 +9,11 @@ movies = {}
 with open('Data/movie_titles_metadata.txt') as movieList:
     for line in movieList:
         curLine = line.split('+++$+++')
-        movies[str(curLine[0].strip())] = curLine[1].strip()
+        curLine[1] = curLine[1].strip()
+        curLine[1] = curLine[1].replace(':', '')
+        curLine[1] = curLine[1].replace('"', '')
+        curLine[1] = curLine[1].replace('?', '')
+        movies[str(curLine[0].strip())] = curLine[1]
 
 # SPLITS MOVIE LINES INTO INDIVIDUAL FILES
 # Creates empty files for each movie
@@ -24,7 +28,7 @@ with open('Data/movie_lines.txt') as data:
             for i in range(len(singleLine)):
                 singleLine[i] = singleLine[i].strip()
                 singleLine[i] = singleLine[i].lower()
-                lines[int(singleLine[0][1:])] = singleLine
+            lines[int(singleLine[0][1:])] = singleLine
 
 lines = filter(None, lines)
 
@@ -34,8 +38,7 @@ while currentMovie < 617:
     with open('LinesByMovie/' + movies['m' + str(currentMovie)] + '.txt', 'a') as movie:
         for line in lines:
             if int(line[2][1:]) == currentMovie:
-                if currentMovie == 3:
-                    movie.write(line[4] + '\n')
+                movie.write(line[4] + '\n')
         currentMovie += 1
 
 
