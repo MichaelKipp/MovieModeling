@@ -19,8 +19,9 @@ with open('Data/movie_titles_metadata.txt') as movieList:
 # SPLITS MOVIE LINES INTO INDIVIDUAL FILES
 # Creates empty files for each movie
 for filename in range(617):
-    with open('LinesByMovie/' + movies['m' + str(filename)] + '.txt', 'a') as movie:
-        movie.write('')
+    if filename != 114:
+        with open('LinesByMovie/' + movies['m' + str(filename)] + '.txt', 'w') as movie:
+            movie.write('')
 
 # Takes lines from data and adds to list
 with open('Data/movie_lines.txt') as data:
@@ -36,11 +37,11 @@ lines = filter(None, lines)
 currentMovie = 0
 
 while currentMovie < 617:
-    with open('LinesByMovie/' + movies['m' + str(currentMovie)] + '.txt', 'a') as movie:
-        for line in lines:
-            if int(line[2][1:]) == currentMovie:
-                movie.write(line[4] + '\n')
-        currentMovie += 1
-
+    if currentMovie != 114:
+        with open('LinesByMovie/' + movies['m' + str(currentMovie)] + '.txt', 'a') as movie:
+            for line in lines:
+                if int(line[2][1:]) == currentMovie:
+                    movie.write(line[4] + '\n')
+    currentMovie += 1
 
 print ("Time taken: " + str(timeit.default_timer() - start_time))
