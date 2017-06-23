@@ -14,6 +14,7 @@ with open('Data/movie_titles_metadata.txt') as movieList:
         curLine[1] = curLine[1].replace('"', '')
         curLine[1] = curLine[1].replace('?', '')
         curLine[1] = curLine[1].replace('-', '')
+        curLine[1] = curLine[1].replace(' ', '_')
         movies[str(curLine[0].strip())] = curLine[1]
 
 # SPLITS MOVIE LINES INTO INDIVIDUAL FILES
