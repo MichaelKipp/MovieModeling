@@ -16,7 +16,7 @@ why aren't you registered through our office?
 it would serve you right if you were left behind.
 how could i know that a war was going to break out right over my head!  right over my head. oh, my word! i tell you, those chinese were pouncing on me from every direction. i had to get into these ridiculous clothes in order to escape.
 where were you hiding?
-hiding? oh, no. hunting - i was in the interior - hunting fossils. this morning i looked up suddenly—
+hiding? oh, no. hunting - i was in the interior - hunting fossils. this morning i looked up suddenly
 i know - and a war broke out right over your head.
 the next time you're in wild country like this, keep in touch with the british consul.
 aha - very good, freshie.[3] very good. you'd better put his name on the list and make out a report later.
@@ -42,7 +42,7 @@ wait a minute, you expect to be knighted for finding that soupbone?
 it was the vertebrae of a megatherium - found in asia.
 yeah, i remember. you said that before.
 sir henry derwent was knighted, and he never got beyond the mesozoic era.
-yes, it just shows—  i don't know why i'm talking to you. i don't know you. who are you?
+yes, it just shows  i don't know why i'm talking to you. i don't know you. who are you?
 okay, brother.
 don't call me brother.
 okay, sister.  no offense. no offense!
@@ -62,14 +62,14 @@ did you say we saved ninety white people?
 yes.
 hurray for us. did you say that we left ten thousand natives down there to be annihilated? no, you wouldn't say that. they don't count.
 you'd better try to get some sleep, bob.
-just you wait until i'm foreign secretary. can't you just see me, freshie, with all those other shrewd, little foreign secretaries?  you see, the trick is to see who can out-talk the other. everybody wants something for nothing, and if you can't get it with smooth talk, you send an army in. i'm going to fool them, freshie. i'm not going to have an army. i'm going to disband mine. i'm going to sink my battleships - i'm going to destroy every piece of warcraft. then when the enemy approaches we'll say, "come in, gentlemen - what can we do for you?"  so then the poor enemy soldiers will stop and think. and what will they think, freshie? they'll think to themselves - "something's wrong here. we've been duped. this is not according to form. these people seem to be quite friendly, and why should we shoot them?" then they'll lay down their arms. you see how simple the whole thing is? centuries of tradition kicked right in the pants—  —and i'll be slapped straight into the nearest insane asylum.
+just you wait until i'm foreign secretary. can't you just see me, freshie, with all those other shrewd, little foreign secretaries?  you see, the trick is to see who can out-talk the other. everybody wants something for nothing, and if you can't get it with smooth talk, you send an army in. i'm going to fool them, freshie. i'm not going to have an army. i'm going to disband mine. i'm going to sink my battleships - i'm going to destroy every piece of warcraft. then when the enemy approaches we'll say, "come in, gentlemen - what can we do for you?"  so then the poor enemy soldiers will stop and think. and what will they think, freshie? they'll think to themselves - "something's wrong here. we've been duped. this is not according to form. these people seem to be quite friendly, and why should we shoot them?" then they'll lay down their arms. you see how simple the whole thing is? centuries of tradition kicked right in the pants  and i'll be slapped straight into the nearest insane asylum.
 don't worry, george. nothing's going to happen. i'll fall right into line. i'll be the good little boy that everybody wants me to be. i'll be the best little foreign secretary we ever had, just because i haven't the nerve to be anything else.
 do try to sleep, bob.
 huh? oh, sure, freshie. good thing, sleep.
 good morning, lovey.
 i beg your pardon.
 i say, good morning, lovey.
-good morning—
+good morning
 i didn't care for 'sister' last night, and i don't like 'lovey' this morning. my name is lovett - alexander, p.
 i see.
 i see.
@@ -81,12 +81,12 @@ well, it looks to me as if we're traveling west.
 that's ridiculous.
 is it?
 it certainly is.
-look here—
-any child knows how to tell direction. any child. i don't care where the child is - in the air, on the earth, or in the sea. if you face the rising sun, your right hand is the north, and your left hand is the south—
+look here
+any child knows how to tell direction. any child. i don't care where the child is - in the air, on the earth, or in the sea. if you face the rising sun, your right hand is the north, and your left hand is the south
 i always get it twisted because i'm left-handed.
 oh, really?
 yes.
-well, you just reverse it. your left hand is—  what difference does it make what 'hand' you are? the north is the north!
+well, you just reverse it. your left hand is  what difference does it make what 'hand' you are? the north is the north!
 uh-huh. all i know is - the sun rises in the east, and we're going away from it.
 now you're irritating and absurd!
 couldn't you arrange to make a little less noise?
@@ -118,7 +118,7 @@ in for what?
 i don't know. he must have had some purpose in taking the plane away from fenner.  when he lands, we'll find out.
 you mean to tell me you're not going to do anything until we land?
 what do you suggest?
-why, you - you— look here - he may dash us to pieces!
+why, you - you look here - he may dash us to pieces!
 it might afford you a great deal of relief.  now gentlemen, i'm going back to sleep. oh, and i was having such a peaceful dream.  as soon as he lands, let me know.
 what are these people?
 i don't know. i can't get the dialect.
@@ -157,13 +157,13 @@ why, he's speaking english.
 english!
 and mine's conway.
 how do you do?
-you've no idea, sir, how unexpected and very welcome you are. my friends and i - and the lady in the plane - left baskul night before last for shanghai, but we suddenly found ourselves traveling in the opposite direction—
+you've no idea, sir, how unexpected and very welcome you are. my friends and i - and the lady in the plane - left baskul night before last for shanghai, but we suddenly found ourselves traveling in the opposite direction
 at the mercy of a mad pilot.
-we'd be eternally grateful if you—
+we'd be eternally grateful if you
 where is your mad pilot?
 he must have had a heart attack, or perhaps the fumes. when the plane landed he was dead.
 we were just going to bury him when you came along.
-pardon me—
+pardon me
 you will need suitable clothes for the journey. it is not particularly far, but quite difficult.
 thank you.
 mr. barnard, i do not like this place. i definitely do not like this place.
@@ -215,7 +215,7 @@ what about those men we met this morning?
 yes. those are our own people. they never venture beyond the point where you were met this morning. it is much too hazardous.
 oh, yes. there is a tribe of porters some five hundred miles from here. that is our only contact with the outside world. every now and again, depending upon favorable weather of course, they make the journey.
 how can we get in touch with them?
-in that respect, you are exceedingly fortunate. we are expecting a shipment from them almost any time now—
+in that respect, you are exceedingly fortunate. we are expecting a shipment from them almost any time now
 what exactly do you mean by "almost any time now"?
 well, we've been expecting this particular shipment for the past two years.
 two years!?
@@ -247,7 +247,7 @@ of course you would. if ever we get out of this place, the thing for you to do i
 what do you mean if we should get out?
 did i say "if"?
 that's what you said.
-well - i mean—
+well - i mean
 what's on your mind, bob? you talk as though we're going to have trouble getting out of here.
 george, i've been putting things together. do you notice the resemblance between those natives and the pilot? and why did those clothes materialize so conveniently when they met us at the plane? chang himself just said that they never venture beyond that point. what brought them there? unless it was to meet us?
 chang's first question was about the pilot.
@@ -265,11 +265,11 @@ for a man who talks a great deal, it's amazing how unenlightening you can be.
 there are some things, my dear conway, i deeply regret i may not discuss.
 you know, that's the fourth time you've said that today. you should have a record made of it.
 shall we go inside? i should so like to show you some of our rare treasures.
-excuse me–
+excuse me
 please don't go.
 by the way, what religion do you follow here?
 we follow many.
-to put it simply, i should say that our general belief was in moderation. we preach the virtue of avoiding excesses of every kind, even including—  —the excess of virtue itself.
+to put it simply, i should say that our general belief was in moderation. we preach the virtue of avoiding excesses of every kind, even including  the excess of virtue itself.
 that's intelligent.
 we find, in the valley, it makes for better happiness among the natives. we rule with moderate strictness and in return we are satisfied with moderate obedience. as a result, our people are moderately honest and moderately chaste and somewhat more than moderately happy.
 how about law and order? you have no soldiers or police?
@@ -284,13 +284,13 @@ that's very convenient. i think i'd like that.
 you'd be surprised, my dear conway, how a little courtesy all around helps to smooth out the most complicated problems.
 but mr. chang, all these things - books, instruments, sculpture - do you mean to say they were all brought in over those mountains by porters?
 they were.
-well, it must have taken–
+well, it must have taken
 centuries.
 centuries! where did you get the money to pay for all those treasures?
 of course we have no money as you know it. we do not buy or sell or seek personal fortunes because, well, because there is no uncertain future here for which to accumulate it.
 that would suit me perfectly. i'm always broke. how did you pay for them?
 our valley is very rich in a metal called gold, which fortunately for us is valued very highly in the outside world. so we merely . . .
-—buy and sell?
+buy and sell?
 buy and - sell? no, no, pardon me, exchange .
 i see. gold for ideas. you know mr. chang, there's something so simple and naive about all of this that i suspect there has been a shrewd, guiding intelligence somewhere. whose idea was it? how did it all start?
 that, my dear conway, is the story of a remarkable man.
@@ -341,7 +341,7 @@ uh-huh.  did you ever hear of chalmers bryant?
 chalmers bryant!
 bryant's utilities - that's me.
 that's too bad. i got a half million shares. my whole foundation! and now look at me!
-colossal nerve you have sitting there and talking about it so calmly - you, the swindler of thousands of people—
+colossal nerve you have sitting there and talking about it so calmly - you, the swindler of thousands of people
 you know, that's what makes the whole thing so funny. a guy like me starts out in life as a plumber - an ordinary, everyday, slew-footed plumber - and by the use of a little brains, mind you, he builds up a gigantic institution, employs thousands of people, becomes a great civic leader. and then the crash comes - and overnight he's the biggest crook the country ever had.
 you are a thief, sir, and a swindler, and i, for one, will be only too glad to turn you over to the police when we get back.
 george, what do you think you're doing?
@@ -367,10 +367,10 @@ sit here, near me. i am an old man and can do no one any harm.
 are you the high lama?
 yes.
 i trust you have been comfortable at shangri-la, since your arrival.
-personally, i've enjoyed your community very much. but my friends do not care for this mystery. they are determined to leave as soon as—
-it's astonishing - and incredible, but—
+personally, i've enjoyed your community very much. but my friends do not care for this mystery. they are determined to leave as soon as
+it's astonishing - and incredible, but
 what is it, my son?
-you're the man chang told me about! you're the first - who - two hundred years ago—  —you're still alive, father perrault!
+you're the man chang told me about! you're the first - who - two hundred years ago  you're still alive, father perrault!
 sit down, my son.  you may not know it, but i've been an admirer of yours for a great many years.
 that conway seemed to belong here. in fact, it was suggested that someone be sent to bring him here.
 that i be brought here? who had that brilliant idea?
@@ -384,12 +384,12 @@ we have reason. it is the entire meaning and purpose of shangri-la. it came to m
 what about the porters?
 porters?
 didn't you find out anything about the porters?
-why - i'm sorry - but i—
-for heaven's sake, bob, what's the matter with you? you went out there for the purpose of—
+why - i'm sorry - but i
+for heaven's sake, bob, what's the matter with you? you went out there for the purpose of
 george. george - do you mind? i'm sorry, but i can't talk about it tonight.
 oh, please. i hope you're not going to run away this time.
 my name's sondra.
-hope you'll forgive me for—
+hope you'll forgive me for
 you know, each time i see you, i hear that music. what is it?
 oh, you mean my pigeons.
 was this your idea?
@@ -441,9 +441,9 @@ and be poisoned out here in the open?
 certainly not!
 there you are!
 this doesn't obligate me in any way.
-—then the bears came right into the bedroom and the little baby bear said, "oh, somebody's been sleeping in my bed." and then the mama bear said, "oh dear, somebody's been sleeping in my bed!" and then the big papa bear, he roared, "and somebody's been sleeping in my bed!" well, you have to admit the poor little bears were in a quandary!
+then the bears came right into the bedroom and the little baby bear said, "oh, somebody's been sleeping in my bed." and then the mama bear said, "oh dear, somebody's been sleeping in my bed!" and then the big papa bear, he roared, "and somebody's been sleeping in my bed!" well, you have to admit the poor little bears were in a quandary!
 i'm going to sleep in my bed. come on, lovey!
-they were in a quandary, and—
+they were in a quandary, and
 come on, lovey.
 why? why 'come on' all the time? what's the matter?  are you going to be a fuss budget all your life? here, drink it up! aren't you having any fun? where was i?
 in a quandary.
@@ -484,7 +484,7 @@ you may not know it, mr. chang, but right here you have utopia.[15]
 you've very kind mr. lovett.
 i don't mean it in that sense. i only give credit where credit is due.  er, mr. chang, i'm very anxious to have you realize that i never for a moment believed that ridiculous kidnapping story.
 oh, i'm so glad.
-simply preposterous. do you know what i did last night? last night, mr. chang, i held a sort of a self- inventory. i said to myself last night, mr. chang, i said, "lovey"—  mr. lovett! "mr. lovett," i said, "you are an ungrateful fool . . . "
+simply preposterous. do you know what i did last night? last night, mr. chang, i held a sort of a self- inventory. i said to myself last night, mr. chang, i said, "lovey"  mr. lovett! "mr. lovett," i said, "you are an ungrateful fool . . . "
 why, no.
 "ungrateful fool . . . !"  those were my very words to myself last night. "here are these people in shangri-la doing everything in their power to make our stay comfortable and happy and i haven't done one single thing to show my appreciation."
 now, what would you like to do?
@@ -501,7 +501,7 @@ it's unbelievable.
 think of it! in times like these.
 say, what about that gold deal?
 huh?
-gold. you were going to—
+gold. you were going to
 oh - that! that can wait. nobody's going to run off with it.  say, i've got to get busy. i want to show this whole layout to chang.  so long. don't you take any wooden nickels.
 all right.
 george - you're behaving like a child. you haven't opened your mouth in two weeks.
@@ -523,8 +523,8 @@ oh, she'd quickly revert in her appearance to her actual age.
 it's weird.  chang, how old are you?
 age is a limit we impose upon ourselves. you know, each time you westerners celebrate your birthday, you build another fence around your minds.
 a fine trick! smart, aren't you? what a pack of lies you told us about those porters! of course the minute they arrive, we can make arrangements to leave. if they take us. but you knew very well you'd tell them not to!
-now, my dear boy. you shouldn't—
-you've been lying to us ever since we got here! apparently it's worked with some people. perhaps it's because they lack the courage to do anything about it. but not me, chang. you're up against the wrong man. i'll get out of here, if i have to blow this fantastic place into the valley! i'll get out—porters or no porters!
+now, my dear boy. you shouldn't
+you've been lying to us ever since we got here! apparently it's worked with some people. perhaps it's because they lack the courage to do anything about it. but not me, chang. you're up against the wrong man. i'll get out of here, if i have to blow this fantastic place into the valley! i'll get outporters or no porters!
 you must prevail upon him not to attempt the journey. he could never get through that country alive.
 i can't let him go alone. it's suicide!
 yes, of course, your brother is a problem. it was to be expected.
@@ -544,9 +544,9 @@ when are you going to start?
 right this very minute!  the porters are waiting for us on the plateau. and that chinaman thought he could stop me. come along.
 i think i'll stick around. i'll leave with the porters on their next trip.
 you mean you don't want to go?
-well - i'm—
+well - i'm
 i see. you're afraid of going to jail, eh?
-well, no. you see, i got this plumbing business—
+well, no. you see, i got this plumbing business
 all right! if you insist on being an idiot, i'm not going to waste time coaxing you.  how about you?
 oh, no - you don't want to go yet, honey.  she'll stick around too.  is that right?
 if you want me to!
@@ -560,7 +560,7 @@ well - no - i think i'd better wait. yes, yes. i will. i'll wait.
 you'll wait till you rot!
 yes.  barney!
 oh my, isn't that pretty! what is it?
-plumbing. everything modern. i'm going to run pipes all through the village—
+plumbing. everything modern. i'm going to run pipes all through the village
 i said we're getting out of here. back to civilization. i made a deal with the porters. they brought in a load of books or something, and they're leaving tomorrow at dawn. they're waiting for us five miles outside the valley. come on, get your things together. where's your top coat?
 you can't leave, george.
 why not? what's going to stop me?
@@ -583,7 +583,7 @@ it's no place for you, bob. think of what's waiting for you. do you want to stay
 please, george. i don't want to talk about it anymore.
 you've got to talk about it. what about me? you said they stole that plane to bring you here. i didn't want to come. you owe me some responsibility.
 i'm tired of owing you things. you're free to go. go ahead.
-it's that girl - that girl has twisted and turned—
+it's that girl - that girl has twisted and turned
 enough! never mind the girl!  well, why don't you go?
 look here, bob, ever since i can remember, you've looked after me. now i think you're the one that needs looking after. i'm your brother, bob. if there's something wrong with you, let me help you.
 oh, george . . .
@@ -635,7 +635,7 @@ are you taking me?
 yes, of course. certainly. come on!
 lucky thing for me you snapped out of it, too. you saved my life. i never could have made it alone.
 what was that?
-was saying—
+was saying
 can't you shut up? must you go on babbling like an idiot?
 bob, can't you get them to wait for us? they're leaving us farther behind every day.
 there's nothing that would suit them better than to lose us, but we must go on.  come on.

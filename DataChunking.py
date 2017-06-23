@@ -29,7 +29,7 @@ with open('Data/movie_lines.txt') as data:
         for line in data:
             singleLine = line.split("+++$+++")
             for i in range(len(singleLine)):
-                singleLine[i] = singleLine[i].strip()
+                singleLine[i] = singleLine[i].decode('utf-8', errors='ignore').encode('utf-8').strip()
                 singleLine[i] = singleLine[i].lower()
             lines[int(singleLine[0][1:])] = singleLine
 

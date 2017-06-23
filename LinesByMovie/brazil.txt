@@ -38,7 +38,7 @@ no, there's no stamp on it. you see! i can't give you the form until it's stampe
 where do i get it stamped?
 information adjustments.
 perhaps the machine's on the blink! it keeps picking up old films. that can't he right, can it?
-it's not the machine. there's a mismatch on the personnel code numbers... ah there we go! that's a b58/732 when it should be a t47/215 ... tuttle ... he should have £31.06, debited against his account for electrical procedures, not buttle.
+it's not the machine. there's a mismatch on the personnel code numbers... ah there we go! that's a b58/732 when it should be a t47/215 ... tuttle ... he should have 31.06, debited against his account for electrical procedures, not buttle.
 oh my god, a mistake!
 it's not our mistake!
 isn't it? whose is it?
@@ -80,7 +80,7 @@ numero, trois.
 numero huit, braised veal in wine sauce.
 it's too exciting. i've left dr jaffe and gone to dr. chapman.
 numero deux, duck a l'orange.
-numero une, crevettes à la mayonaaise.
+numero une, crevettes  la mayonaaise.
 i'm sorry alma, i didn't mean to sound so ...
 that's all right ida ... it's just that he's such an artist. to him, cutting is so crude ... so primitive.
 numero trois, steak.  monsieur, mesdames, bon appetit.
