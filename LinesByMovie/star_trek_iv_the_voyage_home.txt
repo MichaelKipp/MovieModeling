@@ -1,10 +1,10 @@
-what's causing that!?
+what is causing that!?
 captain, their call is being carried on an amplification wave of enormous power!
 can you isolate the wave?
-negative. it's impacting on all our systems!
+negative. it is impacting on all our systems!
 damage report!
 captain... all systems have failed... we are functioning on reserve power only.
-we're out of control -- rig for collision...
+we are out of control -- rig for collision...
 even as the federation negotiated a peace treaty with us, kirk was secretly developing the genesis torpedo! conceived by kirk's son and test detonated by the admiral himself!  the result of this awesome energy was euphemistically called "the genesis planet..." a secret base from which to launch the. annihilation of the klingon people!  we demand the extradition of kirk! we demand justice!
 klingon justice is a unique point of view, mr. president.
 genesis was perfectly named: the creation of life not death. it was the klingons who had first blood while trying to possess its secrets.
@@ -14,13 +14,13 @@ we deny nothing! we have the right to preserve our race!
 do you have the right to murder?
 mr. scott, how soon can we get underway?
 give me one more day, sir. the damage control is easy. reading klingon is hard.
-you'd think they could at least send a ship. bad enough to be court marshaled and spend the rest of our lives mining borite -- but to come home in this klingon flea trap...
+you would think they could at least send a ship. bad enough to be court marshaled and spend the rest of our lives mining borite -- but to come home in this klingon flea trap...
 we could learn a thing or two from this flea trap. it has a cloaking device that cost us a lot.
 i just wish we could cloak the stench.
-admiral, i'd like to continue my work on the ship until you leave.
+admiral, I would like to continue my work on the ship until you leave.
 thank you, lt. saavik.
 and... here is a deposition i have made. if it is not sufficient, i will return to earth to testify.
-don't concern yourself, saavik. your leave has been granted for good and proper cause.  how are you feeling?
+do not concern yourself, saavik. your leave has been granted for good and proper cause.  how are you feeling?
 i am well, admiral.
 you will be in good hands here.
 i do not understand the final question...
@@ -34,25 +34,25 @@ you do this -- for friendship?
 i do this because i was there,
 spock. does the good of the many outweigh the good of the one...?
 i would accept that as an axiom.
-then you stand here alive because of a mistake -- made by your flawed, feeling, human friends. they have sacrificed their futures because they believed that the good of the <u>one</u> -- you -- was more important to them.
+then you stand here alive because of a mistake -- made by your flawed, feeling, human friends. they have sacrificed their futures because they believed that the good of the one -- you -- was more important to them.
 humans make illogical decisions...
 ... they do, indeed.
 status report, admiral!
 mr. president, the probe has passed through all quadrants. the starships shepard and yorktown and three smaller vessels have been neutralized.
 "neutralized?" how?
-we don't know. it's using forms of energy our best scientists do not understand...
+we do not know. it is using forms of energy our best scientists do not understand...
 can you protect us?
 we are launching everything we have.
 systems report.  communications?
-communications systems ready. communications officer -- ready as she'll ever be.
+communications systems ready. communications officer -- ready as she will ever be.
 mr. sulu?
 guidance is functional. onboard computer will interface with federation memory bank...
 weapons systems?
 operational, admiral. cloaking device now available in all modes of flight.
-i'm impressed, mr. chekov. a lot of effort for a short voyage.
-we are in an enemy wessel, sir. i didn't wish to be shot down on thee way to our own funeral.
+I am impressed, mr. chekov. a lot of effort for a short voyage.
+we are in an enemy wessel, sir. i did not wish to be shot down on thee way to our own funeral.
 most prudent.  engine room. report, scotty.
-we're ready, sir. i've converted the dilithium sequencer to something less primitive. and admiral -- i've replaced the klingon food packs. they was givin' me sour stomach.
+we are ready, sir. I have converted the dilithium sequencer to something less primitive. and admiral -- I have replaced the klingon food packs. they was givin' me sour stomach.
 appreciated by all, mr. scott.  prepare for departure.
 well, saavik. i guess this is goodbye.
 yes, admiral.  sir. i have not had the opportunity to tell you about your son.  david died most bravely. he saved spock. he saved us all... i thought you should know.
@@ -61,26 +61,26 @@ permission granted.
 thank you, admiral.
 jim, spock, jim. remember...?
 it would be improper to refer to you as jim while you are in command, admiral... also, i must apologize for my attire.  i seem to have misplaced my uniform.
-well, i... find that understandable  i mean, you've been through a lot.  station, please.
+well, i... find that understandable  i mean, you have been through a lot.  station, please.
 you sure this is such a bright idea?
 what do you mean?
-i mean <u>him</u>, back at his post, like nothing happened. i don't know if you'd got the whole picture but he isn't exactly working on all thrusters.
-it'll come back to him.
-are you sure?  that's what i thought.
+i mean him, back at his post, like nothing happened. i do not know if you would got the whole picture but he is not exactly working on all thrusters.
+it will come back to him.
+are you sure?  that is what i thought.
 mr. sulu... take us home...
 estimating planet earth one point six hours present speed.
 continue on course. chekov, any signs of federation escort?
 no, sir. and no federation wessels on assigned patrol stations.
-that's odd. uhura, what's on the comm channels...?
+that is odd. uhura, what is on the comm channels...?
 hi... busy?
 uhura is busy. i am monitoring.
-umm. well, just wanted to say -- nice to have your katra back in your head, not mine.  i mean, i may have carried your soul, but i sure couldn't fill your shoes.
+umm. well, just wanted to say -- nice to have your katra back in your head, not mine.  i mean, i may have carried your soul, but i sure could not fill your shoes.
 ... my shoes...
 forget it...  how 'bout covering a little philosophical ground? life, death, life... things of that nature?
 i did not have time on vulcan to review the philosophical disciplines.
-spock, it's me, bones! i mean our experience was unique. you really have gone where no man has gone before. can't you tell me what it felt like?
+spock, it is me, bones! i mean our experience was unique. you really have gone where no man has gone before. can not you tell me what it felt like?
 it would be impossible to discuss the subject without a common frame of reference.
-you're joking...!
+you are joking...!
 a joke is a story with a humorous climax.
 you mean i have to die to discuss your insights on death?
 pardon me, doctor, i am hearing many calls of distress.
@@ -92,8 +92,8 @@ really? you think this is its way of saying "hi there" to the people of the eart
 there are millions of other species on earth, doctor. only human arrogance would assume the message was meant for man.
 i liked him better before he died.
 bones --
-dammit, jim, they've made him into a goddam green-blooded computer!
-spock -- you're suggesting the transmission is meant for life form other than man?
+dammit, jim, they have made him into a goddam green-blooded computer!
+spock -- you are suggesting the transmission is meant for life form other than man?
 a distinct possibility, admiral. the president did say the transmission was directed at the earth's oceans
 uhura... can you modify the probe's signals by accounting for density temperature and salinity factors?
 then, this is what it would sound like underwater?
@@ -106,7 +106,7 @@ spock...?
 as suspected, the probe's transmissions are the songs sung by whales.
 whales?
 specifically, humpback whales.
-that's crazy! who would send a probe hundreds of light years to talk to a whale?
+that is crazy! who would send a probe hundreds of light years to talk to a whale?
 10 million years earlier. humpbacks were heavily hunted by man. they have been extinct since the 21st century... it is possible that an alien intelligence sent the probe to determine why they lost contact.
 ... my god...
 spock, could the humpback's answer to this call be simulated?
@@ -115,9 +115,9 @@ is there any other planet where this species exists?
 the humpback was indigenous to earth. earth of the past.
 that leaves us no choice. we must destroy the probe before it destroys earth.
 that would be futile, admiral. the probe would neutralize us easily.
-but we can't turn away! is there no alternative?
+but we can not turn away! is there no alternative?
 there is one, but i cannot guarantee its success. we could attempt to find some humpback whales.
-you just said there aren't any except on earth of the past.
+you just said there are not any except on earth of the past.
 that is what i said, doctor.
 then how.?
 now wait just a damn minute.
@@ -130,16 +130,16 @@ scotty, we have to find some humpbacks.
 humpbacked - people.?
 whales, scotty. 45 to 50 feet long; about 40 tons a piece.
 admiral - how am i going to handle all that weight?
-you'll work it out, scotty. and remember: two of them.
+you will work it out, scotty. and remember: two of them.
 two?
 it takes two to tango, mr. scott.
-you're really going to try this time travel in this rust bucket?
-we've done it before.
-sure, slingshot around the sun. if you pick up enough speed you're in time warp. if you don't, you fry..
+you are really going to try this time travel in this rust bucket?
+we have done it before.
+sure, slingshot around the sun. if you pick up enough speed you are in time warp. if you don't, you fry..
 would you prefer to do nothing?
 i prefer a dose of common sense. you are proposing to head backwards in time, find humpback whales, then bring them forward in time, drop them off - and hope they tell this probe what to do with itself!
--- that's the general idea.
-that's crazy!
+-- that is the general idea.
+that is crazy!
 if you have a better idea - now's the time.
 mr. spock, your computations?
 in progress, admiral.
@@ -151,7 +151,7 @@ surely you can be more specific...
 not with this equipment. i have had to program some of the variables from memory.
 what are the variables...?
 availability of fuel components; mass of the vessel through a time continuum, and the probable location of humpbacks, in this case, the pacific basin.
-you've programmed that from memory...?
+you have programmed that from memory...?
 i have.
 angels and ministers of grace, defend us.
 hamlet, act i scene 4.
@@ -177,15 +177,15 @@ well done, mr. spock.
 admiral, i am receiving whale songs.
 on speakers.
 home in on the strongest signal. descend from orbit.
-admiral, if i may: we're probably already visible to the tracking devices of the time.
+admiral, if i may: we are probably already visible to the tracking devices of the time.
 quite right, spock. mr. chekov, engage cloaking device!
-individual whale song getting stronger... this is strange, admiral. the song is directly ahead. it's coming from san francisco.
-from a city? that doesn't make sense....
-they're giving out. de-crystallizing.
+individual whale song getting stronger... this is strange, admiral. the song is directly ahead. it is coming from san francisco.
+from a city? that does not make sense....
+they are giving out. de-crystallizing.
 give me a round figure, mr. scott.
-oh, twenty-four hours, give or take, staying cloaked. after that, admiral, we'll be visible -- and dead in the water. in any case, we won't have enough to break out of the earth's gravity, to say nothing of getting back home.
-i can't believe we've come this far only to be stopped by this!  scotty, is there any way dilithium can be re-crystallized?
-sorry, sir. we can't even do that in the 23rd century.
+oh, twenty-four hours, give or take, staying cloaked. after that, admiral, we will be visible -- and dead in the water. in any case, we will not have enough to break out of the earth's gravity, to say nothing of getting back home.
+i can not believe we have come this far only to be stopped by this!  scotty, is there any way dilithium can be re-crystallized?
+sorry, sir. we can not even do that in the 23rd century.
 there is a 20th century possibility.
 explain.
 if memory serves, there was a dubious flirtation with nuclear fission reactors resulting in toxic side effects. by the beginning of the fusion era, these reactors had been replaced, but at this time, we should be able to find some.
@@ -193,31 +193,31 @@ but you said toxic.
 we could rig a device to collect their high energy photons safely; we could then inject the photons into the dilithium chamber, causing crystalline restructure.... theoretically.
 where would we find these reactors... theoretically.
 nuclear power was widely used in naval vessels...
-it doesn't look all that different.
+it does not look all that different.
 let's hope so, bones. mr. sulu, set us down in golden gate park.
 aye, sir. descending.
-we'll divide into teams. commanders chekov and uhura are assigned to the uranium problem.
+we will divide into teams. commanders chekov and uhura are assigned to the uranium problem.
 yes, sir.
 dr. mccoy, you, mr. scott and commander sulu will convert us a whale tank.
 oh, joy.
 captain spock and i will attempt to trace these whale songs to their source.
-i'll have bearing and distance for you, sir.
-right.  now look: i want you all to be very careful. this is terra incognita. many customs will doubtless take us by surprise. it's a forgone conclusion these people have never seen an extra-terrestrial before.
-we'll stick together till we get orientated. bearing to the whales?
+I will have bearing and distance for you, sir.
+right.  now look: i want you all to be very careful. this is terra incognita. many customs will doubtless take us by surprise. it is a forgone conclusion these people have never seen an extra-terrestrial before.
+we will stick together till we get orientated. bearing to the whales?
 283 degrees... 15.2 kilometers...
 everyone remember where we parked.
 ojichan? akira ojichaan dewa naino? koko de nani shiteru no?
-gomen nasarei. hito chigai de gozaranuka na.  i'm sorry, my son. you have mis- taken me for someone else.
+gomen nasarei. hito chigai de gozaranuka na.  I am sorry, my son. you have mis- taken me for someone else.
 ah, chigaau hito da. hanashi kata ga okashii.  yes, this must be true. you talk funny.
 chotto omachi nasarei. namae wa nanto moosareruka na.  wait my son. what is your name?
 sulu hikaru.
 ah, sorenara mazu mazu nagaiki wo sareru to mira.  ah... then i am sure that you will have a long and happy life.
 arigato. sayonara.  thank you, honorable sir.
-weren't those a birthday present from dr. mccoy?
-and they will be again, spock. that's the beauty of it.  how much?
+were not those a birthday present from dr. mccoy?
+and they will be again, spock. that is the beauty of it.  how much?
 well, spock, thanks to your restored memory and a little bit of luck, we are in the streets of san francisco looking for a pair of humpback whales.  how do you propose to solve this minor problem?
 simple logic will suffice. we need a map.  that one should do.
-i think we'll find what we're looking for at the cetacean institute in sausalito. two humpbacks called george and gracie.
+i think we will find what we are looking for at the cetacean institute in sausalito. two humpbacks called george and gracie.
 how do you know this...?
 ... simple logic.
 find it?
@@ -225,119 +225,119 @@ yes, under "u.s. government." now we need directions.
 as you observed, a primitive culture.
 yes.
 admiral, may i ask you a question?
-spock, don't call me admiral. don't you remember: you used to call me jim... now what's your question?
+spock, do not call me admiral. do not you remember: you used to call me jim... now what is your question?
 your use of language has altered since our arrival. it is currently laced with -- shall i say -- more colorful metaphors: "double dumb ass on you" -- and so forth...
-you mean profanity. that's simply the way they talk here. nobody pays any attention to you if you don't swear every other word. you'll find it in all the literature of the period.
+you mean profanity. that is simply the way they talk here. nobody pays any attention to you if you do not swear every other word. you will find it in all the literature of the period.
 for example?
 oh, the complete works of jacqueline susan, the novels of harold robbins....
 ah... the giants.
 you mean man...
-to put it mildly. since the dawn of time, men have harvested whales for a variety of purposes, most of which can be achieved synthetically at this point. a hundred years ago, using hand-thrown harpoons, they did plenty of damage -- but that was nothing compared to what they've achieved in this century.
+to put it mildly. since the dawn of time, men have harvested whales for a variety of purposes, most of which can be achieved synthetically at this point. a hundred years ago, using hand-thrown harpoons, they did plenty of damage -- but that was nothing compared to what they have achieved in this century.
 to hunt a species to extinction is not logical.
-whoever said the human race was logical?  now if you'll follow me, i'll introduce you to the institute's pride and joy.
+whoever said the human race was logical?  now if you will follow me, I will introduce you to the institute's pride and joy.
 they are mature humpbacks, weighing 45,000 pounds each. they wandered into san francisco bay as calves and were brought here. we call them george and gracie.
-it's perfect, spock: a male, a female, together in a contained space can beam them up together and consider ourselves damn lucky...
+it is perfect, spock: a male, a female, together in a contained space can beam them up together and consider ourselves damn lucky...
 despite all the things they are teaching us we have to return george and gracie to the open sea.
-why's that?
-well, for one thing, we simply don't have the money to keep feeding them a couple of tons of shrimp a day!
+why is that?
+well, for one thing, we simply do not have the money to keep feeding them a couple of tons of shrimp a day!
 how soon?
-soon... it's too bad because they're very friendly as you can see. i've grown quite attached to them... this way.
+soon... it is too bad because they are very friendly as you can see. I have grown quite attached to them... this way.
 attempting the hell to communicate.
 communicate? communicate what? you have no right to be here!
 come on, fellah -- speak up!
 admiral, if we were to assume these. whales are ours to do with as we please, we would be as guilty as those who caused their extinction.
-ohhh<u>kay</u>. i don't know what this is about, but i want you guys outta here right now or i call the cops.
-i assure you that won't be necessary. we were only trying to help...
+ohhhkay. i do not know what this is about, but i want you guys outta here right now or i call the cops.
+i assure you that will not be necessary. we were only trying to help...
 the hell you were, buster. your friend was messing up my tank and messing up my whales...
 they like you very much. but they are not the hell your whales.
 i suppose they told you that...?
 the hell they did.
 spock...
 yes?
-about those colorful metaphors we discussed. i don't think you should try to use them.
+about those colorful metaphors we discussed. i do not think you should try to use them.
 why not?
-well, for one thing, you haven't quite got the hang of it.
+well, for one thing, you have not quite got the hang of it.
 i see.
 and another thing... it is not always necessary to tell the truth.
 i cannot tell a lie.
-you don't have to lie... you could exaggerate.
+you do not have to lie... you could exaggerate.
 exaggerate.
-you've done it before. can't you remember?
-the hell i can't
+you have done it before. can not you remember?
+the hell i can not
 what else did you learn from your mind meld?
 they are very unhappy about the way their species has been treated by man.
-they have a right to be...  do you think they'll help us?
+they have a right to be...  do you think they will help us?
 i believe i was successful in communicating our intentions.
 ... i see.
 heard there was some excitement.
 just a couple of kooks...
 how're you doing?
 fine. just fine.
-don't tell me fish stories, kiddo. i've known you too long.
-bob... it's tearing me apart.
-i know. i feel the same thing. but we're between a rock and a hard place. we can't keep them without risking their lives and we can't let them go without a taking the same chance.
+do not tell me fish stories, kiddo. I have known you too long.
+bob... it is tearing me apart.
+i know. i feel the same thing. but we are between a rock and a hard place. we can not keep them without risking their lives and we can not let them go without a taking the same chance.
 yeah.
-and finally, they're not human beings, you know. their intelligence has in no way been proven comparable to ours --
-i don't know about you, but my compassion for someone is not limited to my estimate of their intelligence.  i mean whales may not have painted the mona lisa or invented the dirt bike but they didn't ravish the land either.
+and finally, they are not human beings, you know. their intelligence has in no way been proven comparable to ours --
+i do not know about you, but my compassion for someone is not limited to my estimate of their intelligence.  i mean whales may not have painted the mona lisa or invented the dirt bike but they did not ravish the land either.
 sorry if i spoke out of turn.
-not at all. you gave me things to think about. you always do. you do sound a little wrecked, why don't you go home and stare at the ceiling?
-why don't i?
+not at all. you gave me things to think about. you always do. you do sound a little wrecked, why do not you go home and stare at the ceiling?
+why do not i?
 team leader, this is team 2.   come in, please...
 i have the coordinates of the reactor...
 ... it gives me a great sense of history.
 it gives me a great sense of danger. we have to beam in next to the reactor room, not in it.
 ah, well done, team 2.
-and admiral, it's the enterprise.
+and admiral, it is the enterprise.
 understood. what is your plan?
-it's her -- from the institute. if we play our cards right, we may learn when those whales are really leaving.
+it is her -- from the institute. if we play our cards right, we may learn when those whales are really leaving.
 how will playing cards help?
 back to san francisco.
 came all the way down here to jump in and swim with the kiddies, huh?
-there's really very little point in my trying to explain.
+there is really very little point in my trying to explain.
 i buy that. what about him?
-he's harmless.  back in the sixties he was part of the free speech movement at berkeley. i think he did too much lds.
-lds?? are you dyslexic on top of everything else? come on, lemme give you a lift. i have a notorious weakness for hard luck cases -- that's why i work with whales.
-we don't want to be any trouble.
-you've already been that. c'mon.
+he is harmless.  back in the sixties he was part of the free speech movement at berkeley. i think he did too much lds.
+lds?? are you dyslexic on top of everything else? come on, lemme give you a lift. i have a notorious weakness for hard luck cases -- that is why i work with whales.
+we do not want to be any trouble.
+you have already been that. c'mon.
 thanks.
-don't mention it. and don't try anything, either. i got a tire iron right where i can get at it.
+do not mention it. and do not try anything, either. i got a tire iron right where i can get at it.
 so you were at berkeley.
 i was not.
 memory problems, too.
 uh huh. what about you? where you from?
 iowa.
-a landlubber. come on, what the hell were you boys really trying to do back there? was it some kinda macho thing? if that's all, i'm gonna be real disappointed. i hate that macho type.
-can i ask <u>you</u> something?
+a landlubber. come on, what the hell were you boys really trying to do back there? was it some kinda macho thing? if that is all, I am going to be real disappointed. i hate that macho type.
+can i ask you something?
 go ahead.
-what's going to happen when you release the whales?
-they're gonna hafta take their chances.
+what is going to happen when you release the whales?
+they are going to hafta take their chances.
 what does that mean, exactly? take their chances.
 it means that they will be at risk from whale hunters -- same as the rest of the humpbacks.  what did you mean when you said all that stuff back at the institute about extinction?
 i meant --
-he meant what you were saying on the tour: that if things keep on the way they're going, humpbacks will disappear forever.
-are you sure it isn't time for a colorful metaphor?
-you're not one of those guys from the military, are you? trying to teach whales to retrieve torpedoes, or some dipshit stuff like that?
+he meant what you were saying on the tour: that if things keep on the way they are going, humpbacks will disappear forever.
+are you sure it is not time for a colorful metaphor?
+you are not one of those guys from the military, are you? trying to teach whales to retrieve torpedoes, or some dipshit stuff like that?
 no, ma'am. no dipshit.
-well, that's something. i'da let you off right here.
-all right. who are you? and don't jerk me around any more. i want to know how you know that.
-we can't tell you.  please, just -- let me finish. i can tell you that we're not in the military and that we intend no harm to the whales.
+well, that is something. i'da let you off right here.
+all right. who are you? and do not jerk me around any more. i want to know how you know that.
+we can not tell you.  please, just -- let me finish. i can tell you that we are not in the military and that we intend no harm to the whales.
 then --
-in fact, we may be able to help -- in ways that, frankly, you couldn't possibly imagine.
-or believe, i'll bet.
-very likely. you're not exactly catching us at our best.
-professor scott, i'm dr. nichols, plant manager. i'm terribly sorry but there's been an awful mix-up would you believe i was never told about your visit?
-i tried to clear things up, professor scott. i explained you'd come all the way from edinburgh on appointment to study manufacturing methods here at plexico, but they don't seem to know anything about it.
-don't know anything about it? i find it difficult to believe that i've come millions of miles --
+in fact, we may be able to help -- in ways that, frankly, you could not possibly imagine.
+or believe, I will bet.
+very likely. you are not exactly catching us at our best.
+professor scott, I am dr. nichols, plant manager. I am terribly sorry but there is been an awful mix-up would you believe i was never told about your visit?
+i tried to clear things up, professor scott. i explained you would come all the way from edinburgh on appointment to study manufacturing methods here at plexico, but they do not seem to know anything about it.
+do not know anything about it? i find it difficult to believe that I have come millions of miles --
 millions?
-professor scott, if you'll --
+professor scott, if you will --
 i demand to see the owners! i demand --
 with pleasure.
-well, that's different.
-if you'll follow me, professor --
+well, that is different.
+if you will follow me, professor --
 i will. can my assistant come, too?
 of course.
 hi.
-hi. huey 205, isn't it?
+hi. huey 205, is not it?
 right on. you fly?
 oh, here and there.  i flew something similar in my academy days.
 all right, then this is old stuff to you.
@@ -345,12 +345,12 @@ old, yes. but interesting.  do you mind if i ask a few questions...?
 well, so much for the tour of our humble plant. i must say, professor your knowledge of engineering is most impressive.
 back home, we call him the miracle worker.
 indeed... may i offer you gentlemen anything?
-doctor nichols, i might have something to offer <u>you</u>.
+doctor nichols, i might have something to offer you.
 ... yes?
-i notice you're still working with polymers.
+i notice you are still working with polymers.
 sill? what else would i be working with?
 ah, what else indeed? let me put it another way: how thick would a piece of your plexiglass need to be at 60 feet by 10 feet to withstand the pressure of 18,000 cubic feet of water?
-that's easy: 6 inches. we carry stuff that big in stock.
+that is easy: 6 inches. we carry stuff that big in stock.
 yes, i noticed. now suppose -- just suppose -- i could show you a way to manufacture a wall that would do the same job but was only an inch thick. would that be worth something to you, eh?
 ... are you joking?
 he never jokes... perhaps the professor could use your computer.
@@ -359,123 +359,123 @@ hello? computer...?
 just use the keyboard...
 the keyboard... how quaint.
 transparent aluminum?
-that's the ticket, laddie.
+that is the ticket, laddie.
 ... but it would take years just to figure out the dynamics of this matrix...!
 no!  no... what did you have in mind...?
 a moment alone, please.
-you sure you won't change your mind?
+you sure you will not change your mind?
 is there something wrong with the one i have?
 just a little joke. see you later, old friend.
 how did you know gracie's pregnant? nobody knows that.
-he's just going to hang around the bushes while we eat?
-it's his way.
+he is just going to hang around the bushes while we eat?
+it is his way.
 do you trust me?
 implicitly.
 good.  a large mushroom and pepperoni with extra onions. and a michelob.
 so how did a nice girl like you get to be a cetacean biologist?
 just lucky, i guess.
-you're upset about losing the whales.
-... you're very perceptive.
+you are upset about losing the whales.
+... you are very perceptive.
 how will that be done, exactly?
-they'll be flown in a special 747 to alaska and released there.
-flown... and that's the last you'll see of them?
-see, yes. but we'll tag them with radio transmitters on a special frequency so we can keep tabs on them.
-you know, i could take those whales somewhere they wouldn't be hunted.
-you? you can't even get from sausalito to san francisco without a lift.
+they will be flown in a special 747 to alaska and released there.
+flown... and that is the last you will see of them?
+see, yes. but we will tag them with radio transmitters on a special frequency so we can keep tabs on them.
+you know, i could take those whales somewhere they would not be hunted.
+you? you can not even get from sausalito to san francisco without a lift.
 thanks. cheers.
-if you have such a low opinion of my abilities, how come we're having dinner?
-i told you: i'm a sucker for hard luck cases. besides, i want to know why you travel around with that ditzy guy who knows that gracie is pregnant and calls you admiral.
+if you have such a low opinion of my abilities, how come we are having dinner?
+i told you: I am a sucker for hard luck cases. besides, i want to know why you travel around with that ditzy guy who knows that gracie is pregnant and calls you admiral.
 where could you take them?
 hm?
-my whales? where could you take them where they'd be safe?
-it's not so much a matter of a place as of time.
+my whales? where could you take them where they would be safe?
+it is not so much a matter of a place as of time.
 sorry, the time would have to be right now.
 what do you mean now?
-let's just say that no humpback born in captivity has ever survived.  problem is, they won't be a whole lot safer at sea because of all the hunting this time of year... so that, as they say, is that.  damn.
-what's that?
-what's what?
+let's just say that no humpback born in captivity has ever survived.  problem is, they will not be a whole lot safer at sea because of all the hunting this time of year... so that, as they say, is that.  damn.
+what is that?
+what is what?
 you got a pocket pager? what are you, a doctor?
 what is it? i thought i told you never to call me --
-sorry, admiral. we just thought you'll like to know, we're beaming them now.
+sorry, admiral. we just thought you will like to know, we are beaming them now.
 oh i see --  tell them phasers on stun. good luck. kirk out.
 wanna try it from the top?
 tell me when the whales are going to be released?
 ... who are you?
 who do you think i am?
-don't tell me: you're from outer space.
-no, i'm from iowa. i just work in outer space.
+do not tell me: you are from outer space.
+no, I am from iowa. i just work in outer space.
 well, i was close. i knew outer space was going to come into it sooner or later.
 all right. the truth?
-i'm all ears.
-that's what you think.  okay...truth... i'm from what, on your calendar, would be the late 23rd century. i've been sent back in time to bring two humpback whales with me in an attempt to... repopulate the species.
-well, why didn't you say so? why all the coy disguises?
+I am all ears.
+that is what you think.  okay...truth... I am from what, on your calendar, would be the late 23rd century. I have been sent back in time to bring two humpback whales with me in an attempt to... repopulate the species.
+well, why did not you say so? why all the coy disguises?
 you want the details?
-are you kidding? i wouldn't miss this for all the tea in china.
+are you kidding? i would not miss this for all the tea in china.
 then tell me when the whales are leaving.
 jesus, you are persistent.  okay, your friend was right. gracie is not only pregnant, she is very pregnant... at noon tomorrow -- in what is sure to be a media circus -- the whales get shipped out.
 noon tomorrow...?!
 how long?
 depends on how much shielding is between us and the reactor.
-well, "admiral," that may be the strangest dinner of my life and the biggest cockamamie fish story i've ever heard.
-you asked.  now, will you tell me something?  george and gracie's transmitter. what's the frequency?
-sorry, that's classified.  i don't really have a clue who you are... you wouldn't want to show me around your space ship, would you?
-it wouldn't be my first choice, no.
+well, "admiral," that may be the strangest dinner of my life and the biggest cockamamie fish story I have ever heard.
+you asked.  now, will you tell me something?  george and gracie's transmitter. what is the frequency?
+sorry, that is classified.  i do not really have a clue who you are... you would not want to show me around your space ship, would you?
+it would not be my first choice, no.
 so. there we are.
-lemme tell you something. i'm here to bring two humpbacks into the 23rd century. if i have to, i'll go to the open sea to get them, but i'd just as soon take yours -- better for me, better for you... and better for them.
-i bet you're a damn good poker player.
-think about it -- but don't take too long because i'm out of time. if you change your mind, this is where i'll be.
+lemme tell you something. I am here to bring two humpbacks into the 23rd century. if i have to, I will go to the open sea to get them, but I would just as soon take yours -- better for me, better for you... and better for them.
+i bet you are a damn good poker player.
+think about it -- but do not take too long because I am out of time. if you change your mind, this is where I will be.
 here... in the park?
 right.
 status?
 the tank will be finished by morning...
-that's cutting it closer than you know. what about team two?
+that is cutting it closer than you know. what about team two?
 no word since beam-in. we can only wait for their call.
-damn.... damnit! we've been so lucky. we have the two perfect whales in our hands, but if we don't move quickly, we'll lose them!
+damn.... damnit! we have been so lucky. we have the two perfect whales in our hands, but if we do not move quickly, we will lose them!
 in that event, the probabilities are that our mission would fail.
-our <u>mission</u>! goddam it, spock, you're talking about the end of every life on earth! you're half human, haven't you got any goddamned feelings about <u>that</u>!!
+our mission! goddam it, spock, you are talking about the end of every life on earth! you are half human, have not you got any goddamned feelings about that!!
 all right, commander, you wanna tell us anything?
 like what?
-like who you really are and what you're doing here and what this thing is.
+like who you really are and what you are doing here and what this thing is.
 my name is pavel chekov. i am a lt. commander in starfleet, united federation of planets, service number 656-5827b.
 all right. let's take it from the top.
 the top of what?
 name?
 my name?
-no, <u>my</u> name.
+no, my name.
 i do not know your name.
-you play games with me and you're through
+you play games with me and you are through
 i am? may i go now?
 okay... make nice and give us the ray gun.
-i varn you. if you don't lie on the floor, i vill have to stun you.
+i varn you. if you do not lie on the floor, i vill have to stun you.
 go ahead. stun me.
-i'm wery sorry, but --
+I am wery sorry, but --
 any luck...?
 nothing... i should never have left him...
-uhura, you did what was necessary.  keep trying. you'll find him...
-it's going slow, sir. it'll be well into tomorrow.
-not good enough, scotty. you've got to do better!
-i'll try, sir. scott out.  well now, he's got himself in a bit of a snit, don't he.
+uhura, you did what was necessary.  keep trying. you will find him...
+it is going slow, sir. it will be well into tomorrow.
+not good enough, scotty. you have got to do better!
+I will try, sir. scott out.  well now, he is got himself in a bit of a snit, do not he.
 you -- sent them away. without even letting me say goodbye?
 gillian --
-it's true... what you said...
-yes... and i'm glad you're here. though i'll admit, you picked a hellova time to drop in...
+it is true... what you said...
+yes... and I am glad you are here. though I will admit, you picked a hellova time to drop in...
 steady, now. we need your help.
 have i flipped out? ... is any of this real?
-it's all real. look.  the storage tanks for the whales.
+it is all real. look.  the storage tanks for the whales.
 but kirk...
-we'll bring them up just like we brought you. it's called a transporter beam...
-kirk. they're gone.
+we will bring them up just like we brought you. it is called a transporter beam...
+kirk. they are gone.
 ... gone?!
-they were taken last night. i wasn't told. they're in alaska by now.
+they were taken last night. i was not told. they are in alaska by now.
 ... damn!
 what kind of spaceship is this, anyway?
 a spaceship with a missing man.
 admiral. full power is restored.
 thank you, spock.
-i've found chekov, sir: he's in emergency surgery right now.
+I have found chekov, sir: he is in emergency surgery right now.
 uhura!... where!
 mercy hospital.
-jim, you've got to let me go in there! don't leave him in the hands of twentieth century medicine.
+jim, you have got to let me go in there! do not leave him in the hands of twentieth century medicine.
 what do you think, spock?
 admiral, may i suggest that dr. mccoy is correct. we must help chekov.
 is that the logical thing to do, spock...?
@@ -484,13 +484,13 @@ right.  will you help us?
 what did you say she was getting?
 cramps.
 who are you? doctor adams was supposed to assist me.
-we're just -- observing.
+we are just -- observing.
 i was not informed about observers.
-what the hell do you think you're doing?
+what the hell do you think you are doing?
 reading the patient's vital signs.
 an experimental device, doctor.
 tearing of the middle meningeal artery...
-what's your degree in, dentistry?
+what is your degree in, dentistry?
 how do you explain slowing pulse, low respiratory rate and coma?
 fundoscopic examination --
 fundoscopic examination is unrevealing in these cases!
@@ -498,22 +498,22 @@ a simple evacuation of the expanding epidural hematoma will relieve the pressure
 my god, man, drilling holes in his head is not the answer. the artery must be repaired without delay or he will die! so put away your butcher knives and let me save the patient!
 wake up, man, wake up!
 come on, pavel...
-he's coming 'round, jim...
+he is coming 'round, jim...
 pavel, can you hear me? give me your name and rank...
-if we keep going up, they'll catch us!
+if we keep going up, they will catch us!
 calm yourself, nurse.  scotty, get us out of here!
 gillian... would the whales be at sea by now?
 yes... if you have a chart on board, i can show you.
 all i need is the radio frequency to track them.
-what are you talking about? i'm coming with you.
+what are you talking about? I am coming with you.
 you can't. our next stop is the 23rd century.
-what do i care? i've got nobody but those whales...
-i have no time to argue, gillian. or even tell you how much you've meant to us... the <u>frequency</u>.
+what do i care? I have got nobody but those whales...
+i have no time to argue, gillian. or even tell you how much you have meant to us... the frequency.
 all right. the frequency is 401 megahertz.
 thank you. for everything.  beam me up, scotty.
 mr. spock, where the hell is the power you promised me?
 admiral, you must wait one damn minute.
-i'm ready spock. let's go find george and gracie...
+I am ready spock. let's go find george and gracie...
 mr. sulu?
 you tricked me.
 you need me.
@@ -529,12 +529,12 @@ uhura, scan for the whales. 401 megahertz!
 wing to cruise configuration... full impulse power.
 aye, sir... three-one-zero to the bering sea. e.t.a.: 12 minutes.
 scotty: are the whale tanks secure?
-aye. but i've never beamed up 400 tons before.
+aye. but I have never beamed up 400 tons before.
 you, ah...  you present the appearance of a man with a problem.
 your perception is correct, doctor... in order to return us to the exact moment at which we left the 23rd century, i have used our journey back through time as a referent, calculating the coefficient of elapsed time in relation to the acceleration curve.
 naturally.  so what is your problem?
 acceleration is no longer a constant.
-well, you're gonna have to take your best shot.
+well, you are going to have to take your best shot.
 ... best shot...?
 guess, spock. your best guess.
 "guessing" is not in my nature...
@@ -546,7 +546,7 @@ admiral, i have a signal closing on the whales. bearing 328 degrees.
 on screen.
 estimate range, ship to whales!
 sir... estimating one nautical mile.
-oh my god, we're too late!
+oh my god, we are too late!
 mr. sulu: full power descent!
 10 seconds, sir!
 hover on my mark, mr. sulu! mr. chekov, stand by de-cloaking -- scotty, ready for power build up!  mark, mr. sulu...
@@ -555,28 +555,28 @@ how long, scotty?
 10 seconds, admiral; 5 - 4 - 3 - 2 - 1.
 admiral! there be whales here!
 well done, mr. scott. how soon can we be ready for warp speed?
-i'll have to re-energize.
-don't take too long. we're sitting ducks for their radar systems...  mr. sulu, impulse climb.
+I will have to re-energize.
+do not take too long. we are sitting ducks for their radar systems...  mr. sulu, impulse climb.
 unidentified aircraft, 40,000 feet msl, range 30 miles, bearing 010.
 mr. scott -- how soon?
 stand by, sir. miracle worker at work...
-mr. scott, don't make jokes, we are in danger of -
+mr. scott, do not make jokes, we are in danger of -
 full power, sir.
 mr. sulu, if you please.
-mr. sulu, take the con. i'm taking our guest down to see her whales.  mr. spock: have you accounted for the variable mass of whales and water in your time re-entry program?
-mr. scott cannot give me exact figures, admiral. so i will...  make a <u>guess</u>.
-<u>you?</u>  spock, that's extraordinary.
-... i don't think he understands...
+mr. sulu, take the con. I am taking our guest down to see her whales.  mr. spock: have you accounted for the variable mass of whales and water in your time re-entry program?
+mr. scott cannot give me exact figures, admiral. so i will...  make a guess.
+you?  spock, that is extraordinary.
+... i do not think he understands...
 no, spock. it means he feels safer about your "guesses" than most other peoples facts.
-you're saying... it is a compliment.
+you are saying... it is a compliment.
 it is.
 ironic. when man was killing these creatures, he was destroying his own future...
 the beasties seem happy to see you, doctor. i hope you like our little aquarium.
 ... what does that mean?
-he means our chances of getting home are not very good. you might have lived a longer life if you'd stayed where you belong.
+he means our chances of getting home are not very good. you might have lived a longer life if you would stayed where you belong.
 i belong here.  suppose by some miracle you do get them through.  who in the 23rd century knows anything about humpback whales?
 ... you have a point...
-you better get up there, sir. we're having some power fall-off...
+you better get up there, sir. we are having some power fall-off...
 on my way...!
 can we make breakaway speed!?
 hardly, admiral, i cannot even guarantee we will escape the sun's gravity! i will attempt to compensate by altering our trajectory.
@@ -591,24 +591,24 @@ i have no control, sir!
 picture, uhura!
 i can't, sir -- nothing!
 out of control, and blind as a bat!
-sir -- i've got some back pressure on manual --
+sir -- I have got some back pressure on manual --
 ground cushion! keep the nose up if you can --
-you got us to the right place, spock. now all we have to do is get the whales out before we <u>sink</u>.  mr. scott, come in!... scotty...?!  damn... mr. spock, see to the safety of all hands.
+you got us to the right place, spock. now all we have to do is get the whales out before we sink.  mr. scott, come in!... scotty...?!  damn... mr. spock, see to the safety of all hands.
 i will, admiral.
 the whales...?!
 no power to the bay doors.
 the explosive override -- ?
-it's under water! there's no way to reach it...
+it is under water! there is no way to reach it...
 go on ahead... close the hatch!
-admiral, you'll be trapped!
-congratulations, jim. i think you've saved the earth.
+admiral, you will be trapped!
+congratulations, jim. i think you have saved the earth.
 not me, bones... they did it.
 hey! -- where you going?!
-you're going to your ship, i'm going to mine. science vessel. i've got 300 years of catch-up learning to do.
+you are going to your ship, I am going to mine. science vessel. I have got 300 years of catch-up learning to do.
 you mean this is -- goodbye?
 why does it have to be goodbye?
-well, i... as they say in your century -- i don't even have your phone number. how will i find you?
-don't worry. i'll find <u>you</u>.  see you around the galaxy...
+well, i... as they say in your century -- i do not even have your phone number. how will i find you?
+do not worry. I will find you.  see you around the galaxy...
 father...?
 i will be returning to vulcan within the hour... i wanted to take my leave of you.
 it is kind of you to make this effort.
@@ -619,6 +619,6 @@ they are my friends.
 yes, of course... do you have any message for your mother?
 tell her i feel fine...
 excelsior? why in god's name would you want that bucket of bolts?
-scotty, don't prejudge. a ship is a ship.
-let's see what she's got, mr. sulu.
+scotty, do not prejudge. a ship is a ship.
+let's see what she is got, mr. sulu.
 aye, sir!

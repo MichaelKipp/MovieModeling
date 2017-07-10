@@ -29,9 +29,9 @@ soft! i will go along; an if you leave me so, you do me wrong.
 tell me in sadness, who is that you love.
 in sadness, cousin, i do love a woman.
 i aim'd so near, when i supposed you loved.
-a right good marks-man! and she's fair i love.
+a right good marks-man! and she is fair i love.
 a right fair mark, fair cuz, is soonest hit.
-well, in that hit you miss: she'll not be hit with cupid's arrow; nor bide the encounter of assailing eyes, nor open her lap to saint-seducing gold:
+well, in that hit you miss: she will not be hit with cupid's arrow; nor bide the encounter of assailing eyes, nor open her lap to saint-seducing gold:
 then she hath sworn that she will still live chaste?
 she hath, and in that sparing makes huge waste.
 be ruled by me, forget to think of her.
@@ -43,9 +43,9 @@ madam, i am here. what is your will?
 nurse, give leave awhile, we must talk in secret. nurse, come back again; i have remember'd me, thou's hear our counsel. nurse, thou know'st my daughter's of a pretty age.
 thou wast the prettiest babe that e'er i nursed.
 by my count, i was your mother much upon these years, you are now a maid. thus then in brief: the valiant paris seeks you for his love.
-a man, young lady! lady, such a man as all the world- -why, he's a man of wax.
+a man, young lady! lady, such a man as all the world- -why, he is a man of wax.
 verona's summer hath not such a flower.
-nay, he's a flower; in faith, a very flower.
+nay, he is a flower; in faith, a very flower.
 this night you shall behold him at our feast; read o'er the volume of young paris' face, and find delight writ there with beauty's pen; this precious book of love, this unbound lover, to beautify him, only lacks a cover: so shall you share all that he doth possess, by having him, making yourself no less.
 nay, bigger; women grow by men.
 speak briefly, can you like of paris' love?
@@ -59,7 +59,7 @@ too great oppression for a tender thing.
 is love a tender thing? it is too rough, too rude, too boisterous, and it pricks like thorn.
 if love be rough with you, be rough with love; prick love for pricking, and you beat love down.
 every man betake him to his legs.
-but 'tis no wit to go.
+but it is no wit to go.
 why, may one ask?
 i dream'd a dream to-night.
 and so did i.
@@ -75,11 +75,11 @@ what dares the slave come hither, to fleer and scorn at our solemnity? now, by t
 why, how now, kinsman! wherefore storm you so?
 uncle, this is that villain romeo, a montague, our foe.
 young romeo is it?
-'tis he.
+it is he.
 content thee, gentle cuz, content thee. let him alone; i would not for the wealth of all the town here in my house do him disparagement: therefore be patient, take no note of him
-i'll not endure him.
+I will not endure him.
 he shall be endured
-uncle, 'tis a shame.
+uncle, it is a shame.
 go to! what, goodman boy! i say, he shall: go to; make a mutiny among my guests?!
 did my heart love till now? forswear it, sight! for i ne'er saw true beauty till this night.
 if i profane with my unworthiest hand this holy shrine, the gentle sin is this: my lips, two blushing pilgrims, ready stand to smooth that rough touch with a tender kiss.
@@ -94,17 +94,17 @@ sin from my lips? o trespass sweetly urged! give me my sin again.
 you kiss by the book.
 madam, your mother craves a word with you. come lets away.
 is she a capulet?
-his name is romeo, and he's a montague; the only son of your great enemy.
+his name is romeo, and he is a montague; the only son of your great enemy.
 away, begone; the sport is at the best.
 ay, so i fear; the more is my unrest.
 romeo! romeo!
-romeo! humours! madman! passion! lover! i conjure thee by rosaline's bright eyes, by her high forehead and her scarlet lip, by her fine foot, straight leg and quivering thigh! o, romeo that she were an open ass, and thou a poperin pear! romeo, good night: i'll to my truckle-bed; this field-bed is too cold for me to sleep.
+romeo! humours! madman! passion! lover! i conjure thee by rosaline's bright eyes, by her high forehead and her scarlet lip, by her fine foot, straight leg and quivering thigh! o, romeo that she were an open ass, and thou a poperin pear! romeo, good night: I will to my truckle-bed; this field-bed is too cold for me to sleep.
 he jests at scars that never felt a wound. but, soft! what light through yonder window breaks? it is the east, and juliet is the sun. arise, fair sun, and kill the envious moon, who is already sick and pale with grief, that thou her maid art far more fair than she: be not her maid, since she is envious; her vestal livery is but sick and green and none but fools do wear it; oh cast it off. it is my lady, o, it is my love! o, that she knew she were!
 ay me!
 she speaks: o, speak again, bright angel!
-romeo, o romeo! wherefore art thou romeo? deny thy father and refuse thy name; or, if thou wilt not, be but sworn my love, and i'll no longer be a capulet.
+romeo, o romeo! wherefore art thou romeo? deny thy father and refuse thy name; or, if thou wilt not, be but sworn my love, and I will no longer be a capulet.
 [aside] shall i hear more, or shall i speak at this?
-'tis but thy name that is my enemy; thou art thyself, though not a montague. what's montague? it is nor hand, nor foot, nor arm, nor face, nor any other part belonging to a man. o, be some other name! what's in a name? that which we call a rose by any other word would smell as sweet; so romeo would, were he not romeo call'd, retain that dear perfection which he owes without that title. o romeo, doff thy name, and for that name which is no part of thee take all myself.
+it is but thy name that is my enemy; thou art thyself, though not a montague. what is montague? it is nor hand, nor foot, nor arm, nor face, nor any other part belonging to a man. o, be some other name! what is in a name? that which we call a rose by any other word would smell as sweet; so romeo would, were he not romeo call'd, retain that dear perfection which he owes without that title. o romeo, doff thy name, and for that name which is no part of thee take all myself.
 i take thee at thy word.
 ahhh!
 art thou not romeo and a montague?
@@ -117,7 +117,7 @@ thou know'st the mask of night is on my face, else would a maiden blush bepaint 
 lady, by yonder blessed moon i swear that tips with silver all these fruit-tree tops--
 o, swear not by the moon, the inconstant moon, that monthly changes in her circled orb, lest that thy love prove likewise variable.
 well what shall i swear by?
-do not swear at all; or, if thou wilt, swear by thy gracious self, which is the god of my idolatry, and i'll believe thee.
+do not swear at all; or, if thou wilt, swear by thy gracious self, which is the god of my idolatry, and I will believe thee.
 if my heart's dear love--
 do not swear: although i joy in thee, i have no joy of this contract to-night: it is too rash, too unadvised, too sudden; too like the lightning, which doth cease to be ere one can say 'it lightens.' sweet, good night! this bud of love, by summer's ripening breath, may prove a beauteous flower when next we meet. good night.
 o, wilt thou leave me so unsatisfied?
@@ -125,7 +125,7 @@ what satisfaction canst thou have to-night?
 the exchange of thy love's faithful vow for mine.
 i gave thee mine before thou didst request it!
 juliet!
-three words, dear romeo, and good night indeed. if that thy bent of love be honourable, thy purpose marriage, send me word to-morrow, by one that i'll procure to come to thee, where and what time thou wilt perform the rite; and all my fortunes at thy foot i'll lay and follow thee my lord throughout the world.
+three words, dear romeo, and good night indeed. if that thy bent of love be honourable, thy purpose marriage, send me word to-morrow, by one that I will procure to come to thee, where and what time thou wilt perform the rite; and all my fortunes at thy foot I will lay and follow thee my lord throughout the world.
 [within] juliet!
 i uh, by and by i come--but if thou mean'st not well, i do beseech thee--
 [within] juliet!
@@ -133,9 +133,9 @@ by and by, i come: -- to cease thy strief, and leave me to my grief: to-morrow w
 so thrive my soul--
 a thousand times good night! exit, above
 a thousand times the worse, to want thy light. love goes toward love, as schoolboys from their books, but love from love, toward school with heavy looks.
-romeo! at what o'clock to-morrow shall i send to thee?
+romeo! at what of the clock to-morrow shall i send to thee?
 by the hour of nine.
-i will not fail: 'tis twenty year till then.
+i will not fail: it is twenty year till then.
 juliet!
 o, mighty is the powerful grace that lies in plants, herbs, stones, and their true qualities: for nought so vile that the earth doth live but to the earth some special good doth give, nor aught so good, but strain'd from that fair use revolts from true birth, stumbling on abuse: virtue itself turns vice, being misaplied; and vice sometimes by action dignified. within the infant rind of this weak flower poison is resident and medicine power: for this, being smelt, with that part cheers each part; being tasted, slays all senses with the heart. two such empossed kings encamp them still in man as well as herbs, grace and rude will; and where the worser is predominant, full soon the canker death eats up that plant.
 good marrow, father!
@@ -144,15 +144,15 @@ young son, it argues a distemper'd head so soon to bid good marrow to thy bed: o
 the last is true; the sweeter rest was mine.
 god pardon sin, was thou with rosaline!?
 rosaline? my ghostly father no; i have forgot that name, and that name's woe.
-that's my good son: but where hast thou been
-i have been feasting with mine enemy, where on a sudden one hath wounded me, that's by me wounded; both our remeidies within thy help and holy physic lies.
+that is my good son: but where hast thou been
+i have been feasting with mine enemy, where on a sudden one hath wounded me, that is by me wounded; both our remeidies within thy help and holy physic lies.
 be plain, good son, and homely in thy drift; riddling confession finds but riddling shrift.
-then plainly know my hearts dear love is set, on the fair daughter of rich capulet. we met, we wooed, we made exchange of vow. i'll tell thee as we pass; but this i pray, that thou consent to marry us today.
+then plainly know my hearts dear love is set, on the fair daughter of rich capulet. we met, we wooed, we made exchange of vow. I will tell thee as we pass; but this i pray, that thou consent to marry us today.
 holy saint francis, what a change is here! is rosaline that thou didst love so dear so soon forsaken? young men's love then lies not truly in their hearts but in their eyes.
 thou chid'st me oft for loving rosaline.
 for doting; not for loving, pupil mine.
 i pray thee, chde me not; whom i love now doth grace for grace and love for love allow; the other did not so.
-o, she new well. thy love read by rote and could not spell. come, young waverer, come, go with me, in one respect i'll thy assistant be; for this alliance may so happy prove, to turn you household rachor to pure love.
+o, she new well. thy love read by rote and could not spell. come, young waverer, come, go with me, in one respect I will thy assistant be; for this alliance may so happy prove, to turn you household rachor to pure love.
 o, let us hence; i stand on sudden haste.
 wisely and slow; they stumble that run fast.
 where the devil should this romeo be? came he not home to-night?
@@ -168,11 +168,11 @@ why, what is tybalt?
 more than prince of cats. he is the courageous captain of compliments. he fights as you sing prick- song, keeps time, distance, and proportion; he rests his minim rest, one, two, and the third in your bosom: the very butcher of a silk button, a duellist, a duellist; a gentleman of the very first house, of the first and second cause: the immortal passado! punto reverso! the hai!
 the what?
 ho ho, capital punks!
-signior romeo, bon jour! there's a french salutation to your french slop. you gave us the counterfeit fairly last night.
+signior romeo, bon jour! there is a french salutation to your french slop. you gave us the counterfeit fairly last night.
 good morrow to you both. what counterfeit did i give you?
 the slip, son, the slip; can you not conceive?
 pardon, good mercutio, my business was great; and in such a case as mine a man may strain courtesy.
-that's as much as to say, such a case as yours constrains a man to bow in the hams.
+that is as much as to say, such a case as yours constrains a man to bow in the hams.
 meaning, to court'sy.
 thou hast most kindly hit it.
 a most courteous exposition.
@@ -247,7 +247,7 @@ how well my comfort is revived by this.
 hie you make haste! but look thou stay not till the watch be set, for then thou canst not pass to mantua where thau shalt live till we can find a time to blaze you marriage, reconcile your friends, beg pardon of the prince and call thee back with twenty hundred times more joy, than thou wentst forth in lamentation. quick hence! be gone by break of day! sojourn in mantua.
 farewell.
 o god. did romeo's hand shed tybalt's blood? o serpent heart hid with a flowering face. was ever book containing such vile matter's so fairly bound? o, that deceit should dwell in such a gorgeous palace.
-she'll not come down tonight.
+she will not come down tonight.
 wilt thou be gone? it is not yet near day.
 i must be gone and live, or stay and die.
 that light is not daylight, i know it, i. it is some meteor that the sun exhales to light thee on thy way to mantua. therefore stay yet. thou needest not be gone.
@@ -265,7 +265,7 @@ here comes your father, tell him so yourself.
 o sweet my mother cast me not away. delay this marriage for a month, a week. or if you do not make the bridal bed in that dim  monument where tybalt lies.
 talk not to me, for ill not speak a word. do as thou wilt for i have done with thee.
 o god!--o nurse, how shall this be prevented? what sayest thou? hast thou not a word of joy? some comfort nurse.
-faith, here it is. i think it best you marry with this paris. o, he's a lovely gentleman. i think you are happy in this second match, for it excels your first; or if it did not, your first is dead--or 'twere as good he were as living here and you no use to him.
+faith, here it is. i think it best you marry with this paris. o, he is a lovely gentleman. i think you are happy in this second match, for it excels your first; or if it did not, your first is dead--or 'twere as good he were as living here and you no use to him.
 speakest thou from thy heart?
 and from my soul too. else beshrew them both.
 amen
@@ -274,10 +274,10 @@ well, thou hast comforted me marvelous much. go in and tell my lady i am gone, h
 are you at leisure holy father, now? or shall i come to you at evening mass?
 my leisure serves me, pensive daughter now. we must entreat the time alone.
 it strains me past the compass of my wits.
-if in thy wisdom thou canst give no help do thou but call my resolution wise, and with this i'll help it presently!
+if in thy wisdom thou canst give no help do thou but call my resolution wise, and with this I will help it presently!
 hold daughter!
 be not so long to speak i long to die.
-i do spy a kind of hope, which craves as desperate and execution as that is desperate which we would prevent. if, rather than to marry paris, thou hast the strength of will to slay thyself, then it is likely thou wilt undertake a thing like death, to chide away this shame. no warmth, no breath shall testify thou livest . each part, deprived of supple government, shall stiff and stark and cold appear, like death. now when the bridegroom in the morning comes to rouse thee from thy bed, there art thou dead. thou shalt be borne to that same ancient vault where all he kindred to the capulet lie. in the meantime, against thou shalt awake, shall romeo by my letters know our drift, and hither shall he come. and that very night shall romeo bear thee hence to mantua. take thou this vial, being then in bed, and this distilling liquor drink thou off. i'll send my letters to thy lord post haste to mantua.
+i do spy a kind of hope, which craves as desperate and execution as that is desperate which we would prevent. if, rather than to marry paris, thou hast the strength of will to slay thyself, then it is likely thou wilt undertake a thing like death, to chide away this shame. no warmth, no breath shall testify thou livest . each part, deprived of supple government, shall stiff and stark and cold appear, like death. now when the bridegroom in the morning comes to rouse thee from thy bed, there art thou dead. thou shalt be borne to that same ancient vault where all he kindred to the capulet lie. in the meantime, against thou shalt awake, shall romeo by my letters know our drift, and hither shall he come. and that very night shall romeo bear thee hence to mantua. take thou this vial, being then in bed, and this distilling liquor drink thou off. I will send my letters to thy lord post haste to mantua.
 what if this mixture do not work at all? shall i be married then tomorrow morning?
 what, daughter are you busy? need you my help?
 no, madam. we have culled such necessaries as our behoveful for our state tomorrow. so please you, let me now be left alone, and let the nurse this night sit up with you. for i am sure you have your hands full in all this so sudden business.
@@ -300,7 +300,7 @@ i pay thy poverty, and not thy will.
 drink it off and, if you had the strength of twenty men it would dispatch you straight.
 here is my gold. worse poison to men's souls, than these poor compounds that thou mayest not sell.
 live and be prosperous; and farewell good fellow.
-then i'll leave thee.
+then I will leave thee.
 tempt not a desperate man!
-romeo. what's here? poison. drunk all, and left no friendly drop to help me after. i will kiss thy lips. happily some poison yet doth hang on them. thy lips are warm.
+romeo. what is here? poison. drunk all, and left no friendly drop to help me after. i will kiss thy lips. happily some poison yet doth hang on them. thy lips are warm.
 thus..... with a kiss...... i die.

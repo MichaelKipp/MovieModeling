@@ -1,5 +1,5 @@
-lord vader, this is an unexpected pleasure. we're honored by your presence.
-you may dispense with the pleasantries, commander. i'm here to put you back on schedule.
+lord vader, this is an unexpected pleasure. we are honored by your presence.
+you may dispense with the pleasantries, commander. I am here to put you back on schedule.
 i assure you, lord vader, my men are working as fast as they can.
 perhaps i can find new ways to motivate them.
 i tell you, this station will be operational as planned.
@@ -18,7 +18,7 @@ i am fluent in over six million forms of communication, and can readily...
 splendid! we have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
 disintegrated?
 shhh. you have hibernation sickness.
-i can't see.
+i can not see.
 your eyesight will return in time.
 where am i?
 jabba's palace.
@@ -27,49 +27,49 @@ someone who loves you.
 leia!
 i gotta get you out of here.
 ugh!
-ohhh, i can't bear to watch.
+ohhh, i can not bear to watch.
 han!
 luke!
 are you all right?
 fine. together again, huh?
-wouldn't miss it.
+would not miss it.
 how are we doing?
 the same as always.
-that bad, huh? where's leia?
+that bad, huh? where is leia?
 oh, dear. his high exaltedness, the great jabba the hutt, has decreed that you are to be terminated immediately.
 good, i hate long waits.
 you will therefore be taken to the dune sea and cast into the pit of carkoon, the nesting place of the all-powerful sarlacc.
 in his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.
 on second thought, let's pass on that, huh?
 i think my eyes are getting better. instead of a big dark blur, i see a big light blur.
-there's nothing to see. i used to live here, you know.
-you're gonna die here, you know. convenient.
-just stick close to chewie and lando. i've taken care of everything.
+there is nothing to see. i used to live here, you know.
+you are going to die here, you know. convenient.
+just stick close to chewie and lando. I have taken care of everything.
 oh... great!
 han! chewie?
 lando!
 lando, grab it!
 lower it!
-i'm trying!
-chewie! chewie, give me the gun. don't move, lando.
+I am trying!
+chewie! chewie, give me the gun. do not move, lando.
 no, wait! i thought you were blind!
-it's all right. trust me. don't move.
+it is all right. trust me. do not move.
 all right! a little higher! just a little higher!
-i don't know. all i can see is a lot of blowing sand!
-that's all any of us can see.
-why don't you leave that crate and come with us?
+i do not know. all i can see is a lot of blowing sand!
+that is all any of us can see.
+why do not you leave that crate and come with us?
 i have a promise i have to keep first... to an old friend.
 guess i owe you some thanks, too, lando.
-figured if i left you frozen like that you'd just give me bad luck the rest of my life, so i might as well get you unfrozen sooner or later.
+figured if i left you frozen like that you would just give me bad luck the rest of my life, so i might as well get you unfrozen sooner or later.
 the death star will be completed on schedule.
 you have done well, lord vader. and now i sense you wish to continue your search for young skywalker.
 yes, my master.
 patience, my friend. in time he will seek you out. and when he does, you must bring him before me. he has grown strong. only together can we turn him to the dark side of the force.
 as you wish.
 everything is proceeding as i have foreseen.
-master yoda, you can't die.
+master yoda, you can not die.
 strong am i with the force... but not that strong! twilight is upon me and soon night must fall. that is the way of things... the way of the force.
-but i need your help. i've come back to complete the training.
+but i need your help. I have come back to complete the training.
 no more training do you require. already know you that which you need.
 yoda, i must know.
 your father he is.
@@ -77,21 +77,21 @@ told you, did he?
 yes.
 unexpected this is, and unfortunate...
 unfortunate that i know the truth?
-well, i'm sorry.
+well, I am sorry.
 remember, a jedi's strength flows from the force.  but beware.  anger, fear, aggression. the dark side are they.  once you start down the dark path, forever will it dominate your destiny.
-i can't do it, artoo. i can't go on alone.
+i can not do it, artoo. i can not go on alone.
 yoda will always be with you.
 you told me vader betrayed and murdered my father.
 you father was seduced by the dark side of the force. he ceased to be anakin skywalker and became darth vader. when that happened, the good man who was your father was destroyed. so what i have told you was true... from a certain point of view.
-there's still good in him.
-i also thought he could be turned back to the good side. it couldn't be done. he is more machine now than man. twisted and evil.
-i can't do it, ben.
+there is still good in him.
+i also thought he could be turned back to the good side. it could not be done. he is more machine now than man. twisted and evil.
+i can not do it, ben.
 you cannot escape your destiny.
-i tried to stop him once. i couldn't do it.
+i tried to stop him once. i could not do it.
 vader humbled you when first you met him, luke... but that experience was part of your training. it taught you, among other things, the value of patience. had you not been so impatient to defeat vader then, you could have finished your training here with yoda. you would have been prepared.
 but i had to help my friends.
-to be a jedi, luke, you must confront and then go beyond the dark side - the side your father couldn't get past. impatience is the easiest door - for you, like your father. only, your father was seduced by what he found on the other side of the door, and you have held firm. you're no longer so reckless now, luke. you are strong and patient. and now, you must face darth vader again!
-i can't kill my own father.
+to be a jedi, luke, you must confront and then go beyond the dark side - the side your father could not get past. impatience is the easiest door - for you, like your father. only, your father was seduced by what he found on the other side of the door, and you have held firm. you are no longer so reckless now, luke. you are strong and patient. and now, you must face darth vader again!
+i can not kill my own father.
 then the emperor has already won. you were our only hope.
 yoda spoke of another.
 the other he spoke of is your twin sister.
@@ -99,20 +99,20 @@ but i have no sister.
 hmm. to protect you both from the emperor, you were hidden from your father when you were born. the emperor knew, as i did, if anakin were to have any offspring, they would be a threat to him. that is the reason why your sister remains safely anonymous.
 leia! leia's my sister.
 your insight serves you well. bury your feelings deep down, luke. they do you credit. but they could be made to serve the emperor.
-but you can't let her get involved now, ben. vader will destroy her.
-she hasn't been trained in the ways of the jedi the way you have, luke... but the force is strong with her, as it is with all of your family. there is no avoiding the battle. you must face and destroy vader!
+but you can not let her get involved now, ben. vader will destroy her.
+she has not been trained in the ways of the jedi the way you have, luke... but the force is strong with her, as it is with all of your family. there is no avoiding the battle. you must face and destroy vader!
 well, look at you, a general, huh?
 oh, well, someone must have told them about my little maneuver at the battle of taanab.
 luke.
 hi, han... chewie.
-look. i want you to take her. i mean it. take her. you need all the help you can get. she's the fastest ship in the fleet.
-all right, old buddy. you know, i know what she means to you. i'll take good care of her. she-she won't get a scratch. all right?
+look. i want you to take her. i mean it. take her. you need all the help you can get. she is the fastest ship in the fleet.
+all right, old buddy. you know, i know what she means to you. I will take good care of her. she-she will not get a scratch. all right?
 good luck.
 you, too.
 you got her warmed?
-yeah, she's comin' up.
+yeah, she is comin' up.
 hey, are you awake?
-yeah, i just got a funny feeling. like i'm not gonna see her again.
+yeah, i just got a funny feeling. like I am not going to see her again.
 right. chewie, let's see what this piece of junk can do. ready, everybody?
 all set.
 here we go again.
@@ -123,22 +123,22 @@ what of the reports of the rebel fleet massing near sullust?
 it is of no concern. soon the rebellion will be crushed and young skywalker will be one of us! your work here is finished, my friend. go out to the command ship and await my orders.
 yes, my master.
 now we find out if that code is worth the price we paid.
-it'll work. it'll work.
+it will work. it will work.
 vader's on that ship.
-now don't get jittery, luke. there are a lot of command ships. keep your distance though, chewie, but don't look like you're trying to keep your distance.
-i don't know.  fly casual.
-i'm endangering the mission. i shouldn't have come.
-it's your imagination, kid. come on. let's keep a little optimism here.
+now do not get jittery, luke. there are a lot of command ships. keep your distance though, chewie, but do not look like you are trying to keep your distance.
+i do not know.  fly casual.
+I am endangering the mission. i should not have come.
+it is your imagination, kid. come on. let's keep a little optimism here.
 shall we try and go around?
-it'll take time. this whole party'll be for nothing if they see us.
+it will take time. this whole party'll be for nothing if they see us.
 chewie and i will take care of this. you stay here.
 quietly, there might be more of them out there.
 over there! two more of them!
 i see them. wait, leia!
 i thought she was with you.
 we got separated.
-take the squad ahead.  we'll meet at the shield generator at 0300.
-come on, artoo.  we'll need your scanners.
+take the squad ahead.  we will meet at the shield generator at 0300.
+come on, artoo.  we will need your scanners.
 i told you to remain on the command ship.
 a small rebel force has penetrated the shield and landed on endor.
 i have felt him, my master.
@@ -149,21 +149,21 @@ nice work. great, chewie! great! always thinking with your stomach.
 will you take it easy? let's just figure out a way to get out of this thing.  han, can you reach my lightsaber?
 yeah, sure.
 hey!
-han, don't. it'll be all right.
+han, don't. it will be all right.
 what are you telling them?
-hello, i think... i could be mistaken. they're using a very primitive dialect.  but i do believe they think i am some sort of god.
-well, why don't you use your divine influence and get us out of this?
-i beg your pardon, general solo, but that just wouldn't be proper.
+hello, i think... i could be mistaken. they are using a very primitive dialect.  but i do believe they think i am some sort of god.
+well, why do not you use your divine influence and get us out of this?
+i beg your pardon, general solo, but that just would not be proper.
 proper?!
-it's against my programming to impersonate a deity.
+it is against my programming to impersonate a deity.
 what did he say?
-i'm rather embarrassed, general solo, but it appears you are to be the main course at a banquet in my honor.
+I am rather embarrassed, general solo, but it appears you are to be the main course at a banquet in my honor.
 oh!
 your royal highness.
-somehow, i got the feeling that didn't help us very much.
-threepio, tell them if they don't do as you wish, you'll become angry and use your magic.
-what's going on?
-i don't know.
+somehow, i got the feeling that did not help us very much.
+threepio, tell them if they do not do as you wish, you will become angry and use your magic.
+what is going on?
+i do not know.
 leia... do you remember your mother? your real mother?
 just a little bit. she died when i was very young.
 what do you remember?
@@ -171,45 +171,45 @@ just...images, really. feelings.
 tell me.
 she was very beautiful. kind, but...sad.  why are you asking me all this?
 i have no memory of my mother. i never knew her.
-luke, tell me. what's troubling you?
+luke, tell me. what is troubling you?
 vader is here...now, on this moon.
-he's my father.
+he is my father.
 your father?
-there's more. it won't be easy for you to hear it, but you must. if i don't make it back, you're the only hope for the alliance.
-luke, don't talk that way. you have a power i--i don't understand and could never have.
-you're wrong, leia. you have that power too. in time you'll learn to use it as i have. the force is strong in my family. my father has it...i have it...and...my sister has it.
-yes. it's you leia.
+there is more. it will not be easy for you to hear it, but you must. if i do not make it back, you are the only hope for the alliance.
+luke, do not talk that way. you have a power i--i do not understand and could never have.
+you are wrong, leia. you have that power too. in time you will learn to use it as i have. the force is strong in my family. my father has it...i have it...and...my sister has it.
+yes. it is you leia.
 i know. somehow...i've always known.
 then you know why i have to face him.
 no! luke, run away, far away. if he can feel your presence, then leave this place. i wish i could go with you.
-no, you don't. you've always been strong.
+no, you don't. you have always been strong.
 but, why must you confront him?
-because...there is good in him. i've felt it. he won't turn me over to the emperor. i can save him. i can turn him back to the good side. i have to try.
+because...there is good in him. I have felt it. he will not turn me over to the emperor. i can save him. i can turn him back to the good side. i have to try.
 i...
 ahhh...
-i'm sorry.
+I am sorry.
 hold me.
 the emperor has been expecting you.
 i know, father.
 so, you have accepted the truth.
 come with me.
 obi-wan once thought as you do.
-you don't know the power of the dark side. i must obey my master.
-i will not turn...and you'll be forced to kill me.
+you do not know the power of the dark side. i must obey my master.
+i will not turn...and you will be forced to kill me.
 if that is your destiny.
-search your feelings, father. you can't do this. i feel the conflict within you. let go of your hate.
+search your feelings, father. you can not do this. i feel the conflict within you. let go of your hate.
 it is too late for me, son. the emperor will show you the true nature of the force. he is your master now.
-the main entrance to the control bunker's on the far side of that landing platform. this isn't gonna be easy.
-hey, don't worry. chewie and me got into a lot of places more heavily guarded than this.
-what's he saying?
-he says there's a secret entrance on the other side of the ridge.
-admiral, we're in position. all fighters accounted for.
+the main entrance to the control bunker's on the far side of that landing platform. this is not going to be easy.
+hey, do not worry. chewie and me got into a lot of places more heavily guarded than this.
+what is he saying?
+he says there is a secret entrance on the other side of the ridge.
+admiral, we are in position. all fighters accounted for.
 proceed with the countdown. all groups assume attack coordinates.
 all craft, prepare to jump to hyperspace on my mark.
 all right. stand by.
 oh! oh, my. uh, princess leia!
 quiet.
-i'm afraid our furry companion has gone and done something rather rash.
+I am afraid our furry companion has gone and done something rather rash.
 oh, no.
 oh, no, my young jedi. you will find that it is you who are mistaken...about a great many things.
 his lightsaber.
@@ -220,42 +220,42 @@ red leader standing by.
 the code's changed. we need artoo!
 here's the terminal.
 we saw it. all craft prepare to retreat.
-you won't get another chance at this, admiral.
-we have no choice, general calrissian. our cruisers can't repel firepower of that magnitude.
-han will have that shield down. we've got to give him more time.
-we're coming!
+you will not get another chance at this, admiral.
+we have no choice, general calrissian. our cruisers can not repel firepower of that magnitude.
+han will have that shield down. we have got to give him more time.
+we are coming!
 come on! come on!
 oh, artoo, hurry!
 my goodness! artoo, why did you have to be so brave?
 well, i suppose i could hotwire this thing.
-at that close range, we won't last long against those star destroyers.
-we'll last longer then we will against that death star...and we might just take a few of them with us.
+at that close range, we will not last long against those star destroyers.
+we will last longer then we will against that death star...and we might just take a few of them with us.
 oh, princess leia, are you all right?
 let's see.
 obi-wan has taught you well.
 i will not fight you, father.
 your thoughts betray you, father. i feel the good in you...the conflict.
 there is no conflict.
-you couldn't bring yourself to kill me before, and i don't believe you'll destroy me now.
+you could not bring yourself to kill me before, and i do not believe you will destroy me now.
 you underestimate the power of the dark side. if you will not fight, then you will meet your destiny.
 good shot, red two.
-now...come on, han, old buddy. don't let me down.
+now...come on, han, old buddy. do not let me down.
 you cannot hide forever, luke.
 i will not fight you.
 give yourself to the dark side. it is the only way you can save your friends. yes, your thoughts betray you. your feelings for them are strong. especially for...
 sister! so...you have a twin sister. your feelings have now betrayed her, too. obi-wan was wise to hide her from me. now his failure is complete. if you will not turn to the dark side, then perhaps she will.
 never-r-r!
 the shield is down! commence attack on thedeath star's main reactor.
-we're on our way. red group, gold group, all fighters follow me.  told you they'd do it!
-i'm going in.
+we are on our way. red group, gold group, all fighters follow me.  told you they would do it!
+I am going in.
 here goes nothing.
 now lock onto the strongest power source. it should be the power generator.
 form up. and stay alert. we could run out of space real fast.
 there it is!
 all right, wedge. go for the power regulator on the north tower.
-copy, gold leader. i'm already on my way out.
-i'm sure luke wasn't on that thing when it blew.
+copy, gold leader. I am already on my way out.
+I am sure luke was not on that thing when it blew.
 he wasn't. i can feel it.
-you love him, don't you?
+you love him, do not you?
 yes.
-all right. i understand. fine. when he comes back, i won't get in the way.
+all right. i understand. fine. when he comes back, i will not get in the way.
